@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Synth-Protoboard")(type "KiCad")(uri "${KIPRJMOD}/Synth-Protoboard.kicad_sym")(options "")(descr ""))
+)
