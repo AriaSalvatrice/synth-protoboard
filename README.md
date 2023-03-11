@@ -78,7 +78,7 @@ While their order form is intimidating, you can simply accept all the default se
 
 - **PCB Color** because who would be caught rocking green in TYOOL 23
 - **Surface finish**: by default, the boards have lead, you may prefer to go lead-free for a small surchage
-- For JLCPCB: **Remove Order Number - Specify a location**. By default, fab houses will slap an order number somewhere random on your board, but you can tell JLCPCB where to put it if you add the text "JLCJLCJLCJLC" somewhere on your board. The text is already included in both KiCad project files and gerber exports, so if ordering with JLCPCB, you just have to select it, and the number will be concealed under the power header. 
+- For JLCPCB: **Remove Order Number - Specify a location**. By default, fab houses will slap an order number somewhere random on your board, but you can tell JLCPCB where to put it if you add the text "JLCJLCJLCJLC" somewhere on your board. <!-- The text is already included in both KiCad project files and gerber exports, so if ordering with JLCPCB, you just have to select it, and the number will be concealed under the power header. --> The text is already included in the KiCad project files. 
 
 Leave the **Different Design** setting to the default of 1.
 
