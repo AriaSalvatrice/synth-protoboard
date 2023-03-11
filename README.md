@@ -1,5 +1,5 @@
 # Prototype board for Kosmo & Eurorack
-Hey what's hip love, welcome to my twisted atelier. When making some honking diy synths I really like prototype PCBs with a breadboard layout. You can tinker with the circuit with a real breadboard, then solder a one-off build with almost the same layout. And it turns out, having such PCBs printed with custom features can be even cheaper than buying generic ones—especially if you manage to cram two of them into a small size! So I designed a protoboard with convenient features for DIY synthesizers that require three power rails. 
+Hey what's hip love, welcome to my twisted atelier. When making some honking diy synths I really like prototype PCBs with a breadboard layout. You can tinker with the circuit with a real breadboard, then solder a one-off build with almost the same layout. And it turns out, having such PCBs printed with custom features can be even cheaper than buying generic ones—especially if you manage to cram two of them into a small size! So I designed a protoboard with convenient features for DIY synthesizers that require three power rails. You can use both halves or cut it in two manually. 
 
 ![](Images/rev1.jpg)
 
@@ -46,7 +46,7 @@ To the right of each half, you will see 5 groups of 3 linked pads that you can u
 
 
 ## Cutting them in half
-It's designed to let you do that! However, there is no V-scoring making them easy to snap in half: you have to cut them yourself.
+It's designed to let you do that! However, there is no V-scoring making them easy to snap in half: you have to cut them yourself. Adding a V-score would add a lot to the cost, and it would no longer be possible to have electrical connections between halves. 
 
 ![](Images/rev1-split.jpg)
 
