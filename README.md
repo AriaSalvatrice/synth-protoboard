@@ -116,7 +116,6 @@ If you are modifying my PCB, remove the signature graphic before you redistribut
 - 2023-02-18: **Revision 1**. Ordered via JLCPCB and received 2023-03-02. Confirmed to work as expected.
   - Initial design
 - 2023-03-10: **Revision 2**. Ordered 2023-03-11 and received 2023-03-23. Quickly but not thoroughly tested.
-  - JLCPCB Gerber viewer is not showing the holes properly (but shows them in other preview pictures). I have asked them to refuse the order if there is no drill data. Out of precaution, I removed the Gerbers .zip from the repository for now.
   - Added project documentation
   - Labeled the power rails on the back of the board
   - Altered the silkscreen of the capacitors a little
